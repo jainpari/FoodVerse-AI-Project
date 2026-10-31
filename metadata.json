@@ -1,0 +1,6 @@
+{
+  "name": "FoodVerse AI – Multimodal AI-Powered Food Intelligence Platform",
+  "description": "Multimodal AI platform using Gemini for food recognition, nutritional analysis, freshness detection, restaurant kitchen hygiene observation, AI cooking assistance, and personalized nutrition planning.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
